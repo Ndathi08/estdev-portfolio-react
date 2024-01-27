@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Ndathi08/estdev-portfolio-react.git/static/css/main.03e2a55c.css",
+    "main.js": "/Ndathi08/estdev-portfolio-react.git/static/js/main.bd4b81a0.js",
+    "static/media/pencil.jpg": "/Ndathi08/estdev-portfolio-react.git/static/media/pencil.a8d84e56c514656d0f68.jpg",
+    "index.html": "/Ndathi08/estdev-portfolio-react.git/index.html",
+    "main.03e2a55c.css.map": "/Ndathi08/estdev-portfolio-react.git/static/css/main.03e2a55c.css.map",
+    "main.bd4b81a0.js.map": "/Ndathi08/estdev-portfolio-react.git/static/js/main.bd4b81a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03e2a55c.css",
+    "static/js/main.bd4b81a0.js"
+  ]
+}
