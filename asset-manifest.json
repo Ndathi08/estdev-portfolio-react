@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Ndathi08/estdev-portfolio-react.git/static/css/main.03e2a55c.css",
-    "main.js": "/Ndathi08/estdev-portfolio-react.git/static/js/main.bd4b81a0.js",
-    "static/media/pencil.jpg": "/Ndathi08/estdev-portfolio-react.git/static/media/pencil.a8d84e56c514656d0f68.jpg",
-    "index.html": "/Ndathi08/estdev-portfolio-react.git/index.html",
-    "main.03e2a55c.css.map": "/Ndathi08/estdev-portfolio-react.git/static/css/main.03e2a55c.css.map",
-    "main.bd4b81a0.js.map": "/Ndathi08/estdev-portfolio-react.git/static/js/main.bd4b81a0.js.map"
+    "main.css": "/estdev-portfolio-react/static/css/main.d6d2e2df.css",
+    "main.js": "/estdev-portfolio-react/static/js/main.f286af0f.js",
+    "static/media/pencil.jpg": "/estdev-portfolio-react/static/media/pencil.a8d84e56c514656d0f68.jpg",
+    "index.html": "/estdev-portfolio-react/index.html",
+    "main.d6d2e2df.css.map": "/estdev-portfolio-react/static/css/main.d6d2e2df.css.map",
+    "main.f286af0f.js.map": "/estdev-portfolio-react/static/js/main.f286af0f.js.map"
   },
   "entrypoints": [
-    "static/css/main.03e2a55c.css",
-    "static/js/main.bd4b81a0.js"
+    "static/css/main.d6d2e2df.css",
+    "static/js/main.f286af0f.js"
   ]
 }
