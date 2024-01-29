@@ -7,7 +7,7 @@
   scroll-behavior: smooth;
 }
 
-/* Custom Scroll Bar CSS */
+
 ::-webkit-scrollbar {
     width: 10px;
 }
@@ -23,7 +23,7 @@
 ::-webkit-scrollbar-thumb:hover {
     background: #CD7F32
 }
-/* navbar styling */
+
 nav{
     position: fixed;
     width: 100%;
@@ -84,7 +84,7 @@ nav{
     color: #FFF;
   }
   
-  /* Side Navigation Menu Button CSS */
+ 
   nav .menu-btn,
   .navbar .menu .cancel-btn{
     position: absolute;
@@ -105,11 +105,11 @@ nav{
   .navbar .menu .menu-btn{
     color: #fff;
   }
-  /* home section styling */
+  
 .home{
   height: 100vh;
   width: 100%;
-  background: url("images/pencil.jpg") no-repeat;
+  background: url("../public/images/pencil.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -164,7 +164,7 @@ nav{
   color: #CD7F32;
 }
 
-/* About Section Styling */
+
 
 section{
   padding-top: 40px;
@@ -249,7 +249,7 @@ section .button button:hover{
   background-color: #fff;
   color: 	#CD7F32;
 }
-/* My Skills CSS */
+
 .skills{
   background: #F0F8FF;
 }
@@ -302,7 +302,7 @@ section .button button:hover{
  font-size: 60px;
  color: #CD7F32;
 }
-* My Projects CSS */
+
 .projects .boxes{
   display: flex;
   flex-wrap: wrap;
