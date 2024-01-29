@@ -7,6 +7,7 @@ import Projects from './components/pages/Projects';
 import Scrollbutton from './components/pages/Scrollbutton';
 import Skills from './components/pages/Skills';
 import Footer from './components/pages/Footer';
+import ChuckNorrisJoke from './components/pages/jokes';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
     <Home/>
     <About/>
     <Skills/>
+    <ChuckNorrisJoke/>
     <Projects/>
     <Contact/>
     <Footer/>
